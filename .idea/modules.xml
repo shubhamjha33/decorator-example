@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TextBoxDrawInitial/TextBoxDrawInitial.iml" filepath="$PROJECT_DIR$/TextBoxDrawInitial/TextBoxDrawInitial.iml" />
-      <module fileurl="file://$PROJECT_DIR$/decorator_ppt.iml" filepath="$PROJECT_DIR$/decorator_ppt.iml" />
     </modules>
   </component>
 </project>
